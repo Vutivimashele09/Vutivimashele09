@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate software developer with a keen interest in web development, machine learning, and open-source projects. I love exploring new technologies and sharing my knowledge with the community.
 
-##H1- 💻 Currently working on web development projects using React and Node.js.
+- 💻 Currently working on web development projects using React and Node.js.
 - 🌱 Learning more about machine learning and artificial intelligence.
 - 🔧 Open to collaborating on exciting open-source projects.
 - 📫 How to reach me: [vutivimashele09@gmail.com](mailto:vutivimashele09@gmail.com)
