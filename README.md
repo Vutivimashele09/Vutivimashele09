@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in web development, mac
 - 💻 Currently working on web development projects using React and Node.js.
 - 🌱 Learning more about machine learning and artificial intelligence.
 - 🔧 Open to collaborating on exciting open-source projects.
-- 📫 How to reach me: [vutivimashele09@example.com](mailto:vutivimashele09@example.com)
+- 📫 How to reach me: [vutivimashele09@gmail.com](mailto:vutivimashele09@gmail.com)
 
 ## Skills
 - **Languages**: JavaScript, Python, Java
